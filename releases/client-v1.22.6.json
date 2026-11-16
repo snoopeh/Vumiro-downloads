@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "version": "1.22.6",
+  "releaseTag": "client-v1.22.6",
+  "platforms": [
+    "windows-x64"
+  ],
+  "buildSourceRevision": "22b6c8e03e19e13f42d46cd192c3adf9c2b1cc70",
+  "publisherSignature": "unsigned",
+  "artifacts": [
+    {
+      "name": "Vumiro-win-x64.zip",
+      "bytes": 10531087,
+      "sha256": "f1603e14508582bc720674a96ea7920b914c24f2b3ee323f5a3ae3e36ca1d895"
+    },
+    {
+      "name": "Vumiro-win-x64-v2.zip",
+      "bytes": 12400186,
+      "sha256": "7ada02c53e74bb18058e79b83d576e05c74f63f8db81bfba8cc23636f99c2ea6"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 175,
+      "sha256": "5b9a3b9e53c1b121064a59e6360702b2a4c593d8fe67577e1729a4e77f8b82fb"
+    }
+  ]
+}
