@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "version": "1.22.7",
+  "releaseTag": "client-v1.22.7",
+  "platforms": [
+    "windows-x64"
+  ],
+  "buildSourceRevision": "c87c28edd39b1426c664a950f90f622c874285fe",
+  "publisherSignature": "RSA-PSS-SHA256 signed updater metadata",
+  "windowsAuthenticode": "unsigned",
+  "rootVersion": 1,
+  "releaseSequence": 2,
+  "securityVersion": 1,
+  "metadataExpiresAt": "2026-11-24T22:04:54.000Z",
+  "artifacts": [
+    {
+      "name": "Vumiro-win-x64.zip",
+      "bytes": 10612393,
+      "sha256": "475ff4f2b4d0069ca6a09234159ef8d433438c32cade97bd977022b8ed07beff"
+    },
+    {
+      "name": "Vumiro-win-x64-v2.zip",
+      "bytes": 12482741,
+      "sha256": "aa252020c1d8bc607c2796944c6b5cd52a1723d3d9a436e6ccf9d35235f00443"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 175,
+      "sha256": "0167e19a70bfa995950d39a6c12054f979ef21af865ab003e90fec133942a828"
+    },
+    {
+      "name": "Vumiro-update-root-chain-v1.bin",
+      "bytes": 1365,
+      "sha256": "722e5d63a26689a972c6eb26250ebe98e6428e4289e155c71b80155edee22e0b"
+    },
+    {
+      "name": "Vumiro-update-win-x64-v1.bin",
+      "bytes": 1994,
+      "sha256": "a9e1fc43b46440ec934f8ef0c4bcbb273c27e50a7b7e47df272c7fdab8eb8392"
+    }
+  ]
+}

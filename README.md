@@ -15,7 +15,7 @@ Screen sharing, voice, chat and customizable community spaces for friends.
 
 [Download the latest Windows release](https://github.com/snoopeh/Vumiro-downloads/releases/latest).
 
-The current release is **1.22.6 for Windows x64 only**. No Linux or Android builds are provided in this release.
+The current release is **1.22.7 for Windows x64 only**. No Linux or Android builds are provided in this release.
 
 ### Install the complete portable app
 
@@ -29,7 +29,7 @@ Existing clients configured for the old private update feed need this manual ins
 
 ## Verification and current limits
 
-The application and updater are **unsigned**. Compare your download with **SHA256SUMS.txt** from the same release. SHA256 verifies file integrity; it is not a publisher signature.
+Update metadata is signed with **RSA-PSS-SHA256** and verified against the embedded publisher trust root. The Windows executables do not have an Authenticode certificate. Compare manual downloads with **SHA256SUMS.txt** from the same release. Checksums alone are not publisher signatures.
 
 Real-device capture, real-network sessions and compatibility with the deployed backend have not been validated for this release. Community functions require configured services and a compatible backend. Local demonstrations are simulated and do not establish live service availability.
 
