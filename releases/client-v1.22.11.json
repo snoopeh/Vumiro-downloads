@@ -9,9 +9,9 @@
   "publisherSignature": "RSA-PSS-SHA256 signed updater metadata",
   "windowsAuthenticode": "unsigned",
   "rootVersion": 1,
-  "releaseSequence": 6,
+  "releaseSequence": 7,
   "securityVersion": 1,
-  "metadataExpiresAt": "2026-11-28T06:14:36.000Z",
+  "metadataExpiresAt": "2026-11-30T23:14:26.000Z",
   "artifacts": [
     {
       "name": "Vumiro-win-x64.zip",
@@ -36,7 +36,7 @@
     {
       "name": "Vumiro-update-win-x64-v1.bin",
       "bytes": 1994,
-      "sha256": "0dcc26ef527a478b4c2bb34d780cf82a1ed9939f241efc62d4346d19bd404b01"
+      "sha256": "d8f1401b52dee11e8e4901c105e2682f89861fef41675e3d41ea9624bdaa9f40"
     }
   ]
 }
