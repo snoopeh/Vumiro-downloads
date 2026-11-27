@@ -15,7 +15,7 @@ Screen sharing, voice, chat and customizable community spaces for friends.
 
 [Download the latest Windows release](https://github.com/snoopeh/Vumiro-downloads/releases/latest).
 
-The current release is **1.22.13 for Windows x64 only**. No Linux or Android builds are provided in this release.
+The current release is **1.23.0 for Windows x64 only**. No Linux or Android builds are provided in this release.
 
 ### Install the complete portable app
 
